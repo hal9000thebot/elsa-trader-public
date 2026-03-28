@@ -1,5 +1,8 @@
 # Elsa — Polymarket BTC Momentum Trader
 
+<img width="919" height="324" alt="image" src="https://github.com/user-attachments/assets/4c5b6468-2df9-443f-a891-ae5e69aaf16a" />
+
+
 > A Python bot that trades Polymarket's "BTC Up or Down — 5 minute" binary prediction markets using order-book momentum signals.
 
 ---
